@@ -1,0 +1,5 @@
+bat
+cmd
+vbs
+reg
+aip
