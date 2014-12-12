@@ -16,3 +16,13 @@ A repository of file extensions that can reasonably be assumed to be Windows-cen
 
 * `txt`, `xml`, and other formats not specific to Windows or other Microsoft systems should be omitted.
 * `exe`, `msi`, and other binary formats should be omitted.
+
+# Purpose
+
+Q: Why would anyone want a list of Windows-centric text file formats?
+
+A: To serve as a default list of files to ignore for certain kinds of static analysis.
+
+Q: What?!
+
+A: To make programs like [lili](https://github.com/mcandre/lili) behave better with Windows projects.
