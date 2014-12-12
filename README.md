@@ -14,4 +14,5 @@ A repository of file extensions that can reasonably be assumed to be Windows-cen
 
 # Things that should NOT be in the list
 
-`txt`, `xml`, and other formats not specific to Windows or other Microsoft systems should be omitted.
+* `txt`, `xml`, and other formats not specific to Windows or other Microsoft systems should be omitted.
+* `exe`, `msi`, and other binary formats should be omitted.
