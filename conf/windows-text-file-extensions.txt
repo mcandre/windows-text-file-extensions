@@ -3,3 +3,9 @@ cmd
 vbs
 reg
 aip
+ps1
+cs
+fs
+xaml
+csproj
+sln
