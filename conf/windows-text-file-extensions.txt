@@ -13,3 +13,4 @@ inf
 docx
 xlsx
 pptx
+ahk
