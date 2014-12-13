@@ -9,3 +9,6 @@ fs
 xaml
 csproj
 sln
+docx
+xlsx
+pptx
